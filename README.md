@@ -1,10 +1,16 @@
 # Examen Final Módulo 2 Maleni Espinoza
 
-Breve explicación de cada ejercicio
+Breve explicación del ejercicio en si, de todo el examen
+lo q he puesto en practica
 
-# Ejercicio 1:
+poner algun ejemplo que haya sido más complejo
+alguno q quiera destacar
 
-# Ejercicio 2:
+
+
+
+
+![tabla clientes](IMG/EXAMEN.jpg)
 
 
 
